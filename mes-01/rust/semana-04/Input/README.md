@@ -1,4 +1,4 @@
-# Input em Rust (explicado como se você tivesse 10 anos)
+# Input em Rust
 
 ## O que é input?
 
