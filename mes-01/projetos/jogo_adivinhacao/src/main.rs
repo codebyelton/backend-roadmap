@@ -22,10 +22,10 @@ fn main() {
         loop {
 
             numero_usuario.clear();
-            limpar_tela();
 
             // Exibe a mensagem para o jogador.
             println!("Tente descobrir o número entre 1 e 100");
+            println!();
 
             // Lê o que o usuário digitou e armazena na String.
             io::stdin()
@@ -41,13 +41,17 @@ fn main() {
 
                 // Conversão falhou (o usuário digitou algo que não é um número).
                 Err(_) => {
+                    println!();
                     println!("Digite um número válido!");
+                    println!();
                     continue;
                 }
             };
 
             if numero_usuario == 0 || numero_usuario > 100 {
+                println!();
                 println!("Digite um número entre 1 e 100!");
+                println!();
                 continue;
             }
 
@@ -58,8 +62,9 @@ fn main() {
             // Verifica se o número digitado é igual ao número secreto.
             if numero_usuario == numero_secreto {
                 // Se acertou, exibe a mensagem de vitória...
+                println!();
                 println!("Você acertou em {} tentativas!", numero_tentativas);
-
+                println!();
                 println!("Deseja jogar novamente? (s/n)");
 
                 loop {
@@ -74,7 +79,10 @@ fn main() {
                     let reiniciar = reiniciar.trim();
 
                     match reiniciar {
-                        "s" | "sim" => break,
+                        "s" | "sim" => {
+                            limpar_tela();
+                            break;
+                        }
                         "n" | "nao" | "não" => return,
                         _ => {
                             println!("Digite 's' ou 'n'.");
@@ -83,11 +91,17 @@ fn main() {
                     }
                 }
             } else if distancia <= 5 {
+                println!();
                 println!("Muito perto!");
+                println!();
             } else if distancia <= 10 {
+                println!();
                 println!("Perto!");
+                println!();
             } else {
+                println!();
                 println!("Está longe!");
+                println!();
             }
         }
     }
