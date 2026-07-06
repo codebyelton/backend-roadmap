@@ -5,41 +5,38 @@ use crossterm::{
 };
 use std::io::stdout;
 
+// Limpa todo o conteúdo visível do terminal.
 fn limpar_tela() {
     execute!(stdout(), Clear(ClearType::All)).unwrap();
 }
 
 fn main() {
 
-    // ->>> Loop 1
+    // Loop principal responsável por reiniciar uma nova partida.
     loop {
-            // Número que o jogador precisa descobrir.
-    let numero_secreto = 37;
-    let mut numero_tentativas = 0;
-        // Cria uma String vazia para armazenar a entrada do usuário.
+        let numero_secreto = 37;
+        let mut numero_tentativas = 0;
+
+        // Buffer reutilizado para armazenar a entrada do usuário.
         let mut numero_usuario = String::new();
 
+        // Loop responsável pela lógica da partida atual.
         loop {
 
+            // Reutiliza a mesma String sem realizar nova alocação.
             numero_usuario.clear();
 
-            // Exibe a mensagem para o jogador.
             println!("Tente descobrir o número entre 1 e 100");
             println!();
 
-            // Lê o que o usuário digitou e armazena na String.
             io::stdin()
                 .read_line(&mut numero_usuario)
                 .expect("Falha ao ler a linha");
 
-            // Tenta converter a String para um número (u32).
-            // Se der certo, guarda o número.
-            // Se der errado, mostra uma mensagem e volta para o início do loop.
+            // Converte a entrada para u32 ou reinicia a iteração em caso de erro.
             let numero_usuario: u32 = match numero_usuario.trim().parse() {
-                // Conversão realizada com sucesso.
                 Ok(numero) => numero,
 
-                // Conversão falhou (o usuário digitou algo que não é um número).
                 Err(_) => {
                     println!();
                     println!("Digite um número válido!");
@@ -48,6 +45,7 @@ fn main() {
                 }
             };
 
+            // Garante que o valor esteja dentro do intervalo permitido.
             if numero_usuario == 0 || numero_usuario > 100 {
                 println!();
                 println!("Digite um número entre 1 e 100!");
@@ -57,16 +55,16 @@ fn main() {
 
             numero_tentativas += 1;
 
+            // Calcula a diferença absoluta entre a tentativa e o número secreto.
             let distancia = numero_usuario.abs_diff(numero_secreto);
 
-            // Verifica se o número digitado é igual ao número secreto.
             if numero_usuario == numero_secreto {
-                // Se acertou, exibe a mensagem de vitória...
                 println!();
                 println!("Você acertou em {} tentativas!", numero_tentativas);
                 println!();
                 println!("Deseja jogar novamente? (s/n)");
 
+                // Aguarda uma resposta válida para reiniciar ou encerrar o jogo.
                 loop {
                     numero_tentativas = 0;
 
@@ -81,9 +79,13 @@ fn main() {
                     match reiniciar {
                         "s" | "sim" => {
                             limpar_tela();
+
+                            // Encerra apenas o loop de confirmação.
                             break;
                         }
                         "n" | "nao" | "não" => return,
+
+                        // Mantém o loop até que uma entrada válida seja informada.
                         _ => {
                             println!("Digite 's' ou 'n'.");
                             continue;
