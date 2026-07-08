@@ -37,9 +37,9 @@ Minha jornada rumo ao Backend utilizando:
 
 ### C#
 
-- [ ] Variáveis
-- [ ] Revisão da Sintaxe
-- [ ] Métodos
+- [✅] Variáveis
+- [✅] Revisão da Sintaxe
+- [✅] Métodos
 - [ ] Array e List
 - [ ] Classes
 - [ ] Encapsulamento
