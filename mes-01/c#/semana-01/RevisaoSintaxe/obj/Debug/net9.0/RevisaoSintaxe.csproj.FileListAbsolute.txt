@@ -1,0 +1,15 @@
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\RevisaoSintaxe\bin\Debug\net9.0\RevisaoSintaxe.exe
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\RevisaoSintaxe\bin\Debug\net9.0\RevisaoSintaxe.deps.json
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\RevisaoSintaxe\bin\Debug\net9.0\RevisaoSintaxe.runtimeconfig.json
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\RevisaoSintaxe\bin\Debug\net9.0\RevisaoSintaxe.dll
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\RevisaoSintaxe\bin\Debug\net9.0\RevisaoSintaxe.pdb
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\RevisaoSintaxe\obj\Debug\net9.0\RevisaoSintaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\RevisaoSintaxe\obj\Debug\net9.0\RevisaoSintaxe.AssemblyInfoInputs.cache
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\RevisaoSintaxe\obj\Debug\net9.0\RevisaoSintaxe.AssemblyInfo.cs
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\RevisaoSintaxe\obj\Debug\net9.0\RevisaoSintaxe.csproj.CoreCompileInputs.cache
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\RevisaoSintaxe\obj\Debug\net9.0\RevisaoSintaxe.sourcelink.json
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\RevisaoSintaxe\obj\Debug\net9.0\RevisaoSintaxe.dll
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\RevisaoSintaxe\obj\Debug\net9.0\refint\RevisaoSintaxe.dll
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\RevisaoSintaxe\obj\Debug\net9.0\RevisaoSintaxe.pdb
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\RevisaoSintaxe\obj\Debug\net9.0\RevisaoSintaxe.genruntimeconfig.cache
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\RevisaoSintaxe\obj\Debug\net9.0\ref\RevisaoSintaxe.dll
