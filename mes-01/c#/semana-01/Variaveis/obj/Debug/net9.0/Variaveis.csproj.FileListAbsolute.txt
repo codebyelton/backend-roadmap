@@ -1,0 +1,15 @@
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\Variaveis\bin\Debug\net9.0\Variaveis.exe
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\Variaveis\bin\Debug\net9.0\Variaveis.deps.json
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\Variaveis\bin\Debug\net9.0\Variaveis.runtimeconfig.json
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\Variaveis\bin\Debug\net9.0\Variaveis.dll
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\Variaveis\bin\Debug\net9.0\Variaveis.pdb
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\Variaveis\obj\Debug\net9.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\Variaveis\obj\Debug\net9.0\Variaveis.AssemblyInfoInputs.cache
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\Variaveis\obj\Debug\net9.0\Variaveis.AssemblyInfo.cs
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\Variaveis\obj\Debug\net9.0\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\Variaveis\obj\Debug\net9.0\Variaveis.sourcelink.json
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\Variaveis\obj\Debug\net9.0\Variaveis.dll
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\Variaveis\obj\Debug\net9.0\refint\Variaveis.dll
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\Variaveis\obj\Debug\net9.0\Variaveis.pdb
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\Variaveis\obj\Debug\net9.0\Variaveis.genruntimeconfig.cache
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-01\Variaveis\obj\Debug\net9.0\ref\Variaveis.dll
