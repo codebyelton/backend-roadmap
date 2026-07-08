@@ -1,0 +1,15 @@
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-02\Metodos\bin\Debug\net9.0\Metodos.exe
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-02\Metodos\bin\Debug\net9.0\Metodos.deps.json
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-02\Metodos\bin\Debug\net9.0\Metodos.runtimeconfig.json
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-02\Metodos\bin\Debug\net9.0\Metodos.dll
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-02\Metodos\bin\Debug\net9.0\Metodos.pdb
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-02\Metodos\obj\Debug\net9.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-02\Metodos\obj\Debug\net9.0\Metodos.AssemblyInfoInputs.cache
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-02\Metodos\obj\Debug\net9.0\Metodos.AssemblyInfo.cs
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-02\Metodos\obj\Debug\net9.0\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-02\Metodos\obj\Debug\net9.0\Metodos.sourcelink.json
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-02\Metodos\obj\Debug\net9.0\Metodos.dll
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-02\Metodos\obj\Debug\net9.0\refint\Metodos.dll
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-02\Metodos\obj\Debug\net9.0\Metodos.pdb
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-02\Metodos\obj\Debug\net9.0\Metodos.genruntimeconfig.cache
+C:\Users\carol\backend-roadmap\mes-01\c#\semana-02\Metodos\obj\Debug\net9.0\ref\Metodos.dll
