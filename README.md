@@ -40,7 +40,7 @@ Minha jornada rumo ao Backend utilizando:
 - [✅] Variáveis
 - [✅] Revisão da Sintaxe
 - [✅] Métodos
-- [ ] Array e List
+- [✅] Array e List
 - [ ] Classes
 - [ ] Encapsulamento
 
