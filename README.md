@@ -24,7 +24,7 @@ Minha jornada rumo ao Backend utilizando:
 - [✅] Match
 - [✅] Loop, While e For
 - [✅] Input
-- [ ] Funções e Escopo
+- [✅] Funções e Escopo
 
 ### Projetos
 
