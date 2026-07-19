@@ -42,7 +42,7 @@ Minha jornada rumo ao Backend utilizando:
 - [✅] Métodos
 - [✅] Array e List
 - [✅] Classes
-- [ ] Encapsulamento
+- [✅] Encapsulamento
 
 ---
 
