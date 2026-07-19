@@ -41,7 +41,7 @@ Minha jornada rumo ao Backend utilizando:
 - [✅] Revisão da Sintaxe
 - [✅] Métodos
 - [✅] Array e List
-- [ ] Classes
+- [✅] Classes
 - [ ] Encapsulamento
 
 ---
