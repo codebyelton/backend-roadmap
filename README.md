@@ -31,7 +31,7 @@ Minha jornada rumo ao Backend utilizando:
 - [✅] Conversor Celsius/Fahrenheit
 - [✅] Mini Rpg
 - [✅] Jogo de Advinhação
-- [ ] Calculadora
+- [✅] Calculadora
 
 ---
 
