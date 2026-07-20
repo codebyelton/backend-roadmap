@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using TaskManager.Models;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Tarefa tarefa = new Tarefa();
+
+        tarefa.ReceberTitulo();
+        tarefa.ReceberDescricao();
+        tarefa.ExibirTarefa();
+        
+    }
+}
